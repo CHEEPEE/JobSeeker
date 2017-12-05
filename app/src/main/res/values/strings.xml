@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JobSeeker</string>
+    <string name="loginWithGoogle">Login with Google</string>
+    <string name="title_activity_job_seeker_registration">JobSeekerRegistration</string>
+</resources>
